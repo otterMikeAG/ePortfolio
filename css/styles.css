@@ -1,0 +1,71 @@
+head {
+    background:#6cf;
+}
+
+.forLinks { 
+    font-size:2.2em; 
+    margin: auto;
+    text-align: center;
+    background:#6cf;
+}
+
+#headingOnPages {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+}
+
+.breaks {
+    text-align: center;
+    margin: auto;
+    font-size: 15px;
+}
+
+.breaks a {
+    font-size:2.2em; 
+    margin: auto;
+    text-align: center;
+    background: yellow;
+}
+
+body {
+    background-color: #ff8080;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+  text-align: center;
+  font-size: 200%;  
+  color: black;
+}
+
+.forFooter {
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+.forFooter2 {
+    text-align: center;
+    position: static;
+    bottom:0;
+    width:100%;
+    height:70px;   /* Height of the footer */
+    background:#6cf;
+}
+
+.headingOnPages {
+    text-align: center;
+}
